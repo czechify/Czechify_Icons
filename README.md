@@ -1,2 +1,2 @@
-# Czechify_Icons
+# czechify_icons
  
